@@ -1,0 +1,65 @@
+{
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": true,
+            "HideIconAfter": 60,
+            "IconURL": "https://imgur.com/a/ae1YPJv",
+            "DisableIconText": false,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "Welcome",
+                    "title1": "Welcome to Project Leda!",
+                    "text1": "Welcome to Project Leda, please read the RULES tab before building... If you need Admin assistance and we are not online create a ticket in Discord and any available admin will assist youOur current stats are; 1.1x Experience, 2.8x Taming, 1.6x Harvest, If you need Admin assistance and we are not online create a ticket in Discord and any available admin will assist you",
+                    "imageurl": "https://imgur.com/a/wv2wPzG"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 1,
+                    "buttontext": "Rules",
+                    "title1": "Rules",
+                    "text1": "- No bullying of any sort. This includes but is not limited to racism, homophobia or bigotry.- No building over rare resources. (eg. Dams, Metal Nodes, Kairuku spawns, etc.) If you are unsure please ask staff if your potential base location is safe for building.- No building in Artifact Caves (Don't leave sleeping bags in or near caves once you clear it, it'll be destroyed.)- No building near Obelisks or leaving tames at them, they will be red gunned.- Each tribe is limited to one base, and one outpost.- When you are taking items from drops, dams, etc, make sure to take everything out even if you just popcorn the extras, so it can properly respawn for others.- You may build next to someone's base as long as you get permission from said tribe to be their neighbor.- No spamming foundations, pillars, or any other structures to block off people from building near you or to block spawns. ",
+                    "imageurl": "https://imgur.com/a/wv2wPzG"
+                }
+            },
+            {
+                "tab3": {
+                    "layout": 2,
+                    "buttontext": "Coming Soon",
+                    "title1": "Perks",
+                    "title2": "Vote Rewards",
+                    "text1": "More Info Coming Soon",
+                    "text2": "More Info Coming Soon",
+                    "imageurl": "https://imgur.com/a/wv2wPzG"
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Discord",
+                    "url": "https://discord.gg/WhfAfmaGwt"
+                }
+            },
+            {
+                "link2": {
+                    "text": "Patreon",
+                    "url": "https://www.patreon.com/ProjectLeda"
+                }
+            },
+            {
+                "link3": {
+                    "text": "Leda Site Coming Soon!",
+                    "url": "https://google.com"
+                }
+            }
+        ]
+    }
+}
